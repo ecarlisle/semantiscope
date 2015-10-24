@@ -1,0 +1,28 @@
+{
+  "name": "semantiscope",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ecarlisle/semantiscope",
+  "authors": [
+    "Eric Carlisle <eric@ericcarlisle.com>"
+  ],
+  "description": "A tool allowing for expressive interactive reporting of semantic tags.",
+  "main": "semantiscope.js",
+  "keywords": [
+    "semantic",
+    "html",
+    "tags",
+    "markup",
+    "HTML5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  }
+}
